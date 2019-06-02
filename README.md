@@ -10,5 +10,5 @@
 <code>pip install -r requirements.txt</code>
 
 ### 修改配置文件
-修改MongoDB配置信息，如数据库名称、table表名称、
+修改MongoDB配置信息，如数据库名称、table表名称、</br>
 商品关键字 
